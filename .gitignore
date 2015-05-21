@@ -1,0 +1,8 @@
+# Ignore the build dir
+build
+
+# Ignore the executables
+bin
+
+# Project specific
+example
